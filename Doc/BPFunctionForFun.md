@@ -1,6 +1,6 @@
 # BP Function For Fun
 
-![BPFunctionForFunPath](/Pics/BPFunctionForFunPath.png)
+![BPFunctionForFunPath](https://raw.githubusercontent.com/moodyliu/unreal_tff/main/Doc/Pics/BPFunctionForFunPath.png)
 
 ## Set variables in anim blueprint with Cpp Sample
 
@@ -8,5 +8,5 @@
 
 在示例中使用 `SetAnimWithName` 方法实现了在Cpp端对其进行修改为Walk动画序列。
 
-![SetBpVarByCpp](/Pics/SetBpVarByCpp.png)
+![SetBpVarByCpp](https://raw.githubusercontent.com/moodyliu/unreal_tff/main/Doc/Pics/SetBpVarByCpp.png)
 
